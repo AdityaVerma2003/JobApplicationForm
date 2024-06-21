@@ -94,3 +94,9 @@ button{
 .formsummary{
     margin-top: 5vh;
 }
+p{
+    color: red;
+}
+.formsummary p{
+    color:black;
+}
